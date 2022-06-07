@@ -2,6 +2,8 @@ header {
     background: url(/img/radu-florin-CwTBt6jyagQ-unsplash\ 1.jpg);
     width: 100%;
     height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   .main-header {
     text-transform: uppercase;
