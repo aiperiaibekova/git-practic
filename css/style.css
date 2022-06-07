@@ -1,0 +1,47 @@
+header {
+    background: url(/img/radu-florin-CwTBt6jyagQ-unsplash\ 1.jpg);
+    width: 100%;
+    height: 800px;
+  }
+  .main-header {
+    text-transform: uppercase;
+  }
+  
+  .main-header h1 {
+    font-weight: 200, Bold;
+    font-size: 60px;
+    line-height: 73.85px;
+    color: #01996d;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 80px;
+  }
+  .main-header h2 {
+    font-size: 24px;
+    line-height: 24px;
+    text-align: left;
+  }
+  .main-header p {
+    width: 420px;
+    height: 123px;
+  margin-top: 50px;
+    left: 275px;
+    font-size: 20px;
+    line-height: 31.4px;
+    color: #484848;
+    margin-left: 50px;
+  }
+  .btn1 {
+    width: 180px;
+    height: 50px;
+  margin-top: 50px;
+    left: 275px;
+    border-radius: 4px;
+    padding: 20px 30px 20px 30px;
+    margin-left: 50px;
+    border: 1px solid green;
+    display: block;
+    background-color: #01996d;
+    color: #fff;
+  }
+ 
